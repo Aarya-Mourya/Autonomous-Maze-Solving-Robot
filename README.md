@@ -8,8 +8,7 @@ Maze Solving Robot is one of the most popular autonomous robots.
 - Simple maze-solving algorithm “Wall following algorithm” and collision avoidance concepts are used to make this robot. 
 A 3-Wheel Simple Maze Solving Robot that could navigate through a simple maze without colliding with any of the walls. Our objective was to design and develop a 2-wheel Simple Maze Solving Robot that could navigate through a simple maze without colliding with any of the walls. The robot was equipped with:-
 
-![Robot Image](https://drive.google.com/file/d/1gHc32uykBQA9VLGxViQsWC83Yi3NeF_c/view?usp=sharing)
-
+https://drive.google.com/file/d/1gHc32uykBQA9VLGxViQsWC83Yi3NeF_c/view?usp=drive_link
 
 ### Components
 1. L298N Motor Driver.
